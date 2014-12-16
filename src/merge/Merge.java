@@ -18,6 +18,9 @@ public class Merge {
         // TODO code application logic here
         
         //ini kerjakan untuk cabang satu
+        System.out.println("baris satu");
+        System.out.println("baris satu");
+        System.out.println("baris satu");
         
         
         //ini kerjakan untuk cabang dua
