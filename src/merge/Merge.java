@@ -24,6 +24,10 @@ public class Merge {
         
         
         //ini kerjakan untuk cabang dua
+        
+        System.out.println("baris dua");
+        System.out.println("baris dua");
+        System.out.println("baris dua");
     }
     
 }
